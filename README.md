@@ -9,9 +9,11 @@
 
 ---
 
-### 🌐 Connect with me 🌐
+### 🌐 Contact with me 🌐
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/adrianjch#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/adrianjch#gh-dark-mode-only)
+&nbsp;
+[![website](./img/email-dark.png)](mailto:ikunobu.contact@gmail.com)
 
 ---
 
