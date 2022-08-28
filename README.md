@@ -22,6 +22,12 @@
 - July 2022: Finished [bachelor degree at ENTI-UB](https://enti.cat/en/course/degree-in-interactive-digital-content-developer/) 
 - Hopefully more coming soon...
 
+<br/>
+<br/>
+<br/>
+Last upated: 28/08/2022
+
+
 
 [linkedin]: https://linkedin.com/in/adrianjch
 [myanimelist]: https://myanimelist.net/animelist/Ikunobu
