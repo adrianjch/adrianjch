@@ -19,13 +19,14 @@
 
 ### 💎 My timeline 💎
 - March 2022: Joined [The Breach Studios](https://twitter.com/thebreachstudio) as QA Tester part-time
-- July 2022: Finished [bachelor degree at ENTI-UB](https://enti.cat/en/course/degree-in-interactive-digital-content-developer/) 
+- July 2022: Finished [bachelor degree at ENTI-UB](https://enti.cat/en/course/degree-in-interactive-digital-content-developer/)
+- September 2022: Started to work full-time at [The Breach Studios](https://twitter.com/thebreachstudio) as QA Tester/Tech
 - Hopefully more coming soon...
 
 <br/>
 <br/>
 <br/>
-Last upated: 28/08/2022
+Last upated: 02/09/2022
 
 
 
