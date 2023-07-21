@@ -1,6 +1,6 @@
 # Hi there, I'm Adrian - aka Ikunobu or adrianjch 👋
 
-## I'm a 22 year old boy who wants to be part of the video game industry
+## I'm a 23 year old boy who wants to be part of the video game industry
 - 📍 Living in Barcelona
 - 💡 Speaking English, Spanish and Catalan
 - 🌎 Loving to travel and make friends around the world
@@ -18,17 +18,20 @@
 ---
 
 ### 💎 My timeline 💎
-- March 2022: Joined [The Breach Studios](https://twitter.com/thebreachstudio) as QA Tester part-time
+- March 2022: Joined [The Breach Studios][company] as QA Tester part-time
 - July 2022: Finished [bachelor degree at ENTI-UB](https://enti.cat/en/course/degree-in-interactive-digital-content-developer/)
-- September 2022: Started to work full-time at [The Breach Studios](https://twitter.com/thebreachstudio) as QA Tester/Tech
+- September 2022: Started to work full-time at [The Breach Studios][company] as C++ Unreal developer
+- July 2023: We anounced [Project ST][ST]! I've been working on this project for so long, check it out!
 - Hopefully more coming soon...
 
 <br/>
 <br/>
 <br/>
-Last upated: 02/09/2022
+Last upated: 22/07/2023
 
 
 
 [linkedin]: https://linkedin.com/in/adrianjch
 [myanimelist]: https://myanimelist.net/animelist/Ikunobu
+[company]: https://twitter.com/thebreachstudio
+[ST]: https://twitter.com/ProjectSTgame
