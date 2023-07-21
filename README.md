@@ -19,7 +19,7 @@
 
 ### 💎 My timeline 💎
 - March 2022: Joined [The Breach Studios][company] as QA Tester part-time
-- July 2022: Finished [bachelor degree at ENTI-UB](https://enti.cat/en/course/degree-in-interactive-digital-content-developer/)
+- July 2022: Finished [bachelor degree at ENTI-UB][ENTI]
 - September 2022: Started to work full-time at [The Breach Studios][company] as C++ Unreal developer
 - July 2023: We anounced [Project ST][ST]! I've been working on this project for so long, check it out!
 - Hopefully more coming soon...
@@ -34,4 +34,5 @@ Last upated: 22/07/2023
 [linkedin]: https://linkedin.com/in/adrianjch
 [myanimelist]: https://myanimelist.net/animelist/Ikunobu
 [company]: https://twitter.com/thebreachstudio
+[ENTI]: https://enti.cat/es/area-videojuegos/grado-desarrollo-videojuegos/#presentacio
 [ST]: https://twitter.com/ProjectSTgame
