@@ -1,6 +1,6 @@
 # Hi there, I'm Adrian - aka Ikunobu or adrianjch 👋
 
-## I'm a 23 year old boy who wants to be part of the video game industry
+## I'm a 25 year old boy who wants to be part of the video game industry
 - 📍 Living in Barcelona
 - 💡 Speaking English, Spanish and Catalan
 - 🌎 Loving to travel and make friends around the world
@@ -22,12 +22,13 @@
 - July 2022: Finished [bachelor degree at ENTI-UB][ENTI]
 - September 2022: Started to work full-time at [The Breach Studios][company] as C++ Unreal developer
 - July 2023: We anounced [Project ST][ST]! I've been working on this project for so long, check it out!
+- Working on... NDA
 - Hopefully more coming soon...
 
 <br/>
 <br/>
 <br/>
-Last upated: 22/07/2023
+Last upated: 06/08/2025
 
 
 
